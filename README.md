@@ -4,7 +4,7 @@ Our purpose was to provide students with an enhanced understanding of parsing al
 To extended the current basic representation of parsing algorithms in Jupyter notebooks we animated the operations of various algorithms in execution.
 We focused on animating the features of sentence derivations, and finite state machines.
 
-#Software and Modules used
+# Software and Modules used
 The implementation was written in Python, version 3.8.1. </br>
 The animations were generated with the installation of the module GraphviAniz. </br>
 We used module GraphvizAnim to generate the animation, </br>
